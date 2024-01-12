@@ -32,3 +32,8 @@ What the hell is HTMX?
 
 HTMX  
 - https://www.youtube.com/watch?v=zjHHIqI9lUY  
+
+HTMX for Impatient Devs  
+- https://www.youtube.com/watch?v=TT7SV-bAZyA
+
+- 
