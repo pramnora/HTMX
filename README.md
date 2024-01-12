@@ -16,6 +16,11 @@ instead, it's just a *new* technology I heard about a minute ago.)-
 
 HTMX Main site  
 - https://htmx.org/  
+- https://htmx.org/docs/  
+- https://htmx.org/examples/  
+- https://htmx.org/reference/
+- https://htmx.org/talk/
+- https://htmx.org/essays/  
 
 ### YouTube...  
 
