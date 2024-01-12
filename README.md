@@ -12,6 +12,9 @@ instead, it's just a *new* technology I heard about a minute ago.)-
 
 ### YouTube...  
 
+htmx in 100 seconds    
+- https://www.youtube.com/watch?v=r-GSGH2RxJs  
+
 HTMX, the anti JS framework (vs React)  
 - https://www.youtube.com/watch?v=-ptq9HCrI_U
 
@@ -20,3 +23,12 @@ HTMX is awesome and here's why
 
 HTMX - What they don't want you to know!  
 - https://www.youtube.com/watch?v=nNtELewCaD4  
+
+The Truth About HTMX | Prime Reacts  
+- https://www.youtube.com/watch?v=2hMrk7A8Wf0
+
+What the hell is HTMX?
+- https://www.youtube.com/watch?v=JT37vRsBYtE  
+
+HTMX  
+- https://www.youtube.com/watch?v=zjHHIqI9lUY  
