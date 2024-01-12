@@ -36,4 +36,6 @@ HTMX
 HTMX for Impatient Devs  
 - https://www.youtube.com/watch?v=TT7SV-bAZyA
 
+The Truth About HTMX & Golang  
+- https://www.youtube.com/watch?v=MeTj4i4FmVs  
 - 
