@@ -27,6 +27,10 @@ HTMX Main site
 HATEOAS/Hypermedia as the Engine of Application State  
 - https://htmx.org/essays/hateoas/  
 
+### Tutorials...
+
+- https://7.dev/getting-started-with-htmx/  
+
 
 ### YouTube...  
 
