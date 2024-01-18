@@ -30,7 +30,7 @@ HATEOAS/Hypermedia as the Engine of Application State
 ### Tutorials...
 
 - https://7.dev/getting-started-with-htmx/
-
+https://github.com/pramnora/HTMX/edit/main/README.md
 ### Books...
 
 Hypermedia Systems  
@@ -80,4 +80,7 @@ Carson Gross — Return To Hypermedia: Solving Javascript Fatigue Using Fundamen
 - https://www.youtube.com/watch?v=LRrrxQXWdhI  
 
 Hyperview.org  
-- https://hyperview.org/  
+- https://hyperview.org/
+
+HXML/Hypermedia XML  
+- https://hyperview.org/docs/guide_html  
