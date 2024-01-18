@@ -39,7 +39,8 @@ Hypermedia Systems
 
 FREE online...  
 - https://hypermedia.systems/  
-- https://hypermedia.systems/book/contents/  
+- https://hypermedia.systems/book/contents/
+- https://hypermedia.systems/a-web-1-0-application/  
 
 ### YouTube...  
 
