@@ -29,8 +29,11 @@ HATEOAS/Hypermedia as the Engine of Application State
 
 ### Tutorials...
 
-- https://7.dev/getting-started-with-htmx/  
+- https://7.dev/getting-started-with-htmx/
 
+### Books...
+
+- https://www.amazon.com/dp/B0C9S88QV6/ref=sr_1_1?crid=1P0I3GXQK32TN  
 
 ### YouTube...  
 
