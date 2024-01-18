@@ -67,4 +67,8 @@ The Truth About HTMX & Golang
 Why We Switched From Svelte Kit To Golang + HTMX  
 - https://www.youtube.com/watch?v=zB9tEQYLPL4
 
+### Other...
+
+Hyperscript  
+- https://hyperscript.org/
 - 
