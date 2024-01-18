@@ -33,7 +33,11 @@ HATEOAS/Hypermedia as the Engine of Application State
 
 ### Books...
 
+Hypermedia Systems  
 - https://www.amazon.com/dp/B0C9S88QV6/ref=sr_1_1?crid=1P0I3GXQK32TN  
+
+FREE online...  
+- https://hypermedia.systems/  
 
 ### YouTube...  
 
