@@ -73,9 +73,11 @@ Why We Switched From Svelte Kit To Golang + HTMX
 
 ### Other...
 
-Hyperscript  
-- https://hyperscript.org/
+Hyperscript.org    
+- https://hyperscript.org/  
   
 Carson Gross — Return To Hypermedia: Solving Javascript Fatigue Using Fundamental Web Architecture  
 - https://www.youtube.com/watch?v=LRrrxQXWdhI  
 
+Hyperview.org  
+- https://hyperview.org/  
