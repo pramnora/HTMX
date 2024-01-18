@@ -31,6 +31,7 @@ HATEOAS/Hypermedia as the Engine of Application State
 
 - https://7.dev/getting-started-with-htmx/
 https://github.com/pramnora/HTMX/edit/main/README.md
+
 ### Books...
 
 Hypermedia Systems  
@@ -38,6 +39,7 @@ Hypermedia Systems
 
 FREE online...  
 - https://hypermedia.systems/  
+- https://hypermedia.systems/book/contents/  
 
 ### YouTube...  
 
